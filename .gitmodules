@@ -1,7 +1,3 @@
-[submodule "FV3"]
-	path = FV3
-	url = https://github.com/NOAA-EMC/fv3atm
-	branch = develop
 [submodule "NEMS"]
 	path = NEMS
 	url = https://github.com/NOAA-EMC/NEMS.git
@@ -14,17 +10,16 @@
 	path = stochastic_physics
 	url = https://github.com/noaa-psd/stochastic_physics
 	branch = master
-[submodule "CMEPS"]
-	path = CMEPS
-	url = https://github.com/NOAA-EMC/CMEPS.git
-	branch = emc/develop
 [submodule "WW3"]
 	path = WW3
 	url = https://github.com/NOAA-EMC/WW3.git
 	branch = develop
-[submodule "CICE_SRC"]
-	path = CICE_SRC
-	url = https://github.com/ESCOMP/CICE
-[submodule "MOM6"]
-	path = MOM6
+[submodule "fv3/FV3"]
+	path = fv3/FV3
+	url = https://github.com/NOAA-EMC/fv3atm.git
+[submodule "mom/MOM6"]
+	path = mom/MOM6
 	url = https://github.com/NCAR/MOM6.git
+[submodule "cice/src"]
+	path = cice/src
+	url = https://github.com/ESCOMP/CICE
