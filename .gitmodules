@@ -8,8 +8,8 @@
 	branch = develop
 [submodule "CICE_SRC"]
 	path = CICE_SRC
-	url = https://github.com/NOAA-EMC/CICE5.git
-	branch = develop
+	url = https://github.com/ESCOMP/CICE.git
+	branch = nuopc
 [submodule "FMS"]
 	path = FMS
 	url = https://github.com/NOAA-GFDL/FMS
@@ -20,12 +20,8 @@
 	branch = master
 [submodule "MOM6"]
 	path = MOM6
-	url = https://github.com/NOAA-EMC/MOM6-interface
-	branch = develop
-[submodule "CMEPS"]
-	path = CMEPS
-	url = https://github.com/NOAA-EMC/CMEPS.git
-	branch = emc/develop
+	url = https://github.com/NCAR/MOM6.git
+	branch = dev/ncar
 [submodule "WW3"]
 	path = WW3
 	url = https://github.com/NOAA-EMC/WW3.git
