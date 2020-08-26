@@ -14,12 +14,12 @@
 	path = WW3
 	url = https://github.com/NOAA-EMC/WW3.git
 	branch = develop
-[submodule "CICE/src"]
-	path = CICE/src
-	url = https://github.com/ESCOMP/CICE
-[submodule "MOM6/src"]
-	path = MOM6/src
-	url = https://github.com/NCAR/MOM6.git
 [submodule "FV3"]
 	path = FV3
 	url = https://github.com/NOAA-EMC/fv3atm.git
+[submodule "CICE/src"]
+	path = CICE/src
+	url = https://github.com/DeniseWorthen/CICE.git
+[submodule "MOM6/src"]
+	path = MOM6/src
+	url = https://github.com/DeniseWorthen/MOM6.git
