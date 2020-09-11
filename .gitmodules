@@ -25,4 +25,4 @@
 	url = https://github.com/DeniseWorthen/MOM6.git
 [submodule "CMEPS"]
 	path = CMEPS
-	url = https://github.com/NOAA-EMC/CMEPS.git
+	url = https://github.com/ESCOMP/CMEPS.git
