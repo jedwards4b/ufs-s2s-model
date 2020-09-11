@@ -23,3 +23,6 @@
 [submodule "MOM6/src"]
 	path = MOM6/src
 	url = https://github.com/DeniseWorthen/MOM6.git
+[submodule "CMEPS"]
+	path = CMEPS
+	url = https://github.com/NOAA-EMC/CMEPS.git
