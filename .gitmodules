@@ -26,3 +26,6 @@
 [submodule "CMEPS"]
 	path = CMEPS
 	url = https://github.com/ESCOMP/CMEPS.git
+[submodule "CDEPS"]
+	path = CDEPS
+	url = https://github.com/ESCOMP/CDEPS.git
